@@ -48,3 +48,15 @@
     text-align: center;
     margin-right: 1em;
 }
+
+.wrongLettersContainer {
+    display: flex;
+}
+
+.wrongLettersContainer span {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: 5px;
+}
